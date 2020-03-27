@@ -1,2 +1,8 @@
 yarn add react-router-dom // добавление роутрера 
 yarn add axios//
+
+About how to remove node_modules= (git) =>{
+    git rm -r --cached node_modules
+    git commit -m 'Remove the now ignored directory node_modules'
+    git push origin master
+} 
