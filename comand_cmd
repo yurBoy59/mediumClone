@@ -6,3 +6,7 @@ About how to remove node_modules= (git) =>{
     git commit -m 'Remove the now ignored directory node_modules'
     git push origin master
 } 
+
+yarn add classnames// A simple JavaScript utility for conditionally joining classNames together.
+
+yarn add query-string // парсим строку в обьект
